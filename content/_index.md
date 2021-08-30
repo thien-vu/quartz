@@ -1,5 +1,4 @@
-# 🌱 Quartz
-## v2.0
+# 🌱 Thien Vu's Garden
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
