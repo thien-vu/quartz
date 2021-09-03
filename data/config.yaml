@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Thien Vu
 enableToc: true
 description:
   Here is the page description. This is an example Quartz site that details installation,
@@ -7,6 +7,6 @@ page_title:
   Quartz Example Page
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/thienvu91
+  - link_name: Website
+    link: https://thiennvu.com/
