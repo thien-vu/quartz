@@ -1,3 +1,6 @@
+---
+title: "changelog"
+---
 - 2021-09-03 at 17h48 · [[MOC]]
 - 2021-09-03 at 17h24 · [[digitalgarden]]
 - 2021-09-03 at 16h56 · [[post]]
