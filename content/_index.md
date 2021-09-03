@@ -1,7 +1,7 @@
 # 🌱 Thien Vu's Garden
 210903 Fri
 
-This is my simple [[digital garden]]. The ideas here are half-formed and scattered. They are not meant to be my definitive opinions. But some documented conversations with myself.
+This is my simple [digital garden](digital%20garden.md). The ideas here are half-formed and scattered. They are not meant to be my definitive opinions. But some documented conversations with myself.
 
 ## Why public?
  Aren't notes private? They are, in the sense that these notes meant solely *for* **me**. I try not to concern myself with whether you will understand these notes (except this page, where I try to address confused wanderers).
