@@ -1,22 +1,25 @@
 # 🌱 Thien Vu's Garden
+210903 Fri
 
-Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
+This is my simple [[digital garden]]. The ideas here are half-formed and scattered. They are not meant to be my definitive opinions. But some documented conversations with myself.
 
-## Why Quartz?
-Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
+## Why public?
+ Aren't notes private? They are, in the sense that these notes meant solely *for* **me**. I try not to concern myself with whether you will understand these notes (except this page, where I try to address confused wanderers).
+ 
+ So why publish these notes at all?
+ 
+ Taking notes has always been my tool to formulate my point of views, and to make sense of the world. In recent years, I've been questioning *why* this activity has to be private. One reason is I'm an academic; I have seen first-hand that one discussion of a half-formed idea with my colleagues allows the idea to blossom more than I could ever do on my own. Another reason is I've been thinking about *resisting* the impulse to manage my *online presence*. Many things online seem well- manicured. I developed this strange anxiety of presenting myself in the *best, most pefect* way. Publishing these notes is an experiment to show myself that the online construct can be mediocre, half-formed but evolving, and imperfect as I truly am.
+ 
+ More practical other reasons to publish my personal notes:
+ 
+1. I hope published notes will invite conversations that will expand and challenge me. So I can grow with these notes.
+2. A challenge to myself to share my thoughts without concerning myself of the *performative* aspects of publishing (eg. weblogs).
+3. I want to access my notes and thoughts from anywhere (eg. in conversation with a friend, I want to revisit to my thoughts on nuclear power last year).
+4. If I get famous, this collection will help my autobiographer(s).
 
-I've personally found that 
-1. It's nice to access notes from anywhere
-2. Having a public digital garden invites open conversations
-3. It makes keeping personal notes and knowledge *playful and fun*
 
-> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## Tools
+I use [Obsidian](https://obsidian.md/) to take notes.
+I use [Quartz](https://quartz.jzhao.xyz), a really nice set of tools to help me push my notes online without thinking. 
 
-I was really inspired by [Bianca](https://garden.bianca.digital/) and [Joel](https://joelhooks.com/digital-garden)'s digital gardens and wanted to try making my own.
-
-**The goal of Quartz is to make hosting your own public digital garden free and simple.** You don't even need your own website. Quartz does all of that for you and gives your own little corner of the internet.
-
-## Get Started
-The entire Quartz documentation is fully hosted using Quartz! To get started, let's visit the main directory.
-
-👉  [Directory](moc/directory.md)
+👉  [Maps of Contents](MOC.md)
