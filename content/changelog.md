@@ -1,4 +1,4 @@
 ---
 title: "Changelog"
 ---
-![changelog](template/changelog.md)
+![changelog](private/changelog.md)
