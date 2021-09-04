@@ -23,3 +23,4 @@ I use [Obsidian](https://obsidian.md/) to take notes.
 I use [Quartz](https://quartz.jzhao.xyz), a really nice set of tools to help me push my notes online without thinking. 
 
 👉  [Maps of Contents](MOC.md)
+[Changelog](Changelog.md)
