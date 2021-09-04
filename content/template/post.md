@@ -1,4 +1,3 @@
 ---
 title: "{{title}}"
-notoc: true
 ---
