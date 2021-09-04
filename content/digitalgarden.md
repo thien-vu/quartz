@@ -1,5 +1,5 @@
 ---
 title: "Digital Garden"
-notoc: true
+enableToc: false
 ---
 
