@@ -1,3 +1,6 @@
+---
+alias: "000"
+---
 # 🌱 Thien Vu's Garden
 210903 Fri
 
@@ -22,4 +25,6 @@ This is my simple [digital garden](digitalgarden.md). The ideas here are half-fo
 I use [Obsidian](https://obsidian.md/) to take notes.
 I use [Quartz](https://quartz.jzhao.xyz), a really nice set of tools to help me push my notes online without thinking. 
 
-👉  [Maps of Contents](MOC.md)
+## Maps
+🔬  [Science](ScienceMOC.md)
+

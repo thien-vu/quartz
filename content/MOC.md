@@ -1,3 +1,0 @@
----
-title: "Maps of Content"
----

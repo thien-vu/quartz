@@ -5,7 +5,7 @@ pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
-    "/content/templates/*",
+    "/content/template/*",
     "/content/private/*",
 ]
 
